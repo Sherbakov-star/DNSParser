@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ActQrG/eZvlOSuNsviiKNPu/UI7viglmKTCf5muK146/JcQuJ6XfrEmYLaDIQaeiO4hhXUuFzgo7uZKgy/xTZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DNSParser\\DNSParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shher\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\shher\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\shher\\.nuget\\packages\\selenium.webdriver\\4.13.1\\selenium.webdriver.4.13.1.nupkg.sha512",
+    "C:\\Users\\shher\\.nuget\\packages\\selenium.webdriver.chromedriver\\117.0.5938.14900\\selenium.webdriver.chromedriver.117.0.5938.14900.nupkg.sha512",
+    "C:\\Users\\shher\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
